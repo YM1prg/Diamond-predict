@@ -2,6 +2,7 @@
 ### Part of NTI national National Telecommunication Institute (NTI) ML intern
 > Predict diamond prices using a tuned SVM model exported to ONNX.
 
+Colab: https://colab.research.google.com/drive/190vKTSKW-WB26GbYzC2_vvrdQSDoHlSM#scrollTo=aIicdaH2OnIw
 ## 📊 Model Performance & Results
 
 ### Dataset Stats (53,940 diamonds after cleaning)
